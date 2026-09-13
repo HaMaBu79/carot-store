@@ -1,3 +1,8 @@
 {
-  "apps": []
+  "id": "hmbtivi",
+  "name": "HMB TIVI",
+  "category": "truyen-hinh",
+  "version": "1.0.5",
+  "icon": "https://github.com/HaMaBu79/Logo_tv/blob/main/HTV%20PHIM.png",
+  "apk": "https://github.com/HaMaBu79/carot-store/blob/main/apk/HMBTIVI_1.1.9_androidtv.apk"
 }
