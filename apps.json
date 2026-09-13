@@ -5,8 +5,45 @@
       "name": "HMB TIVI",
       "category": "truyen-hinh",
       "version": "1.1.9",
-      "icon": "https://raw.githubusercontent.com/HaMaBu79/Logo_tv/main/HTV%20PHIM.png",
-      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/HMBTIVI_1.1.9_androidtv.apk"
+      "icon": "",
+      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/HMBTIVI_1.1.9_androidtv.apk",
+      "featured": true
+    },
+    {
+      "id": "cleaner-ram-tu-dong-pro",
+      "name": "Cleaner RAM tự động PRO",
+      "category": "quan-ly",
+      "version": "1.0",
+      "icon": "",
+      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Cleaner%20RAM%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20PRO_1.0.apk",
+      "featured": false
+    },
+    {
+      "id": "cinema-4k-tv",
+      "name": "Cinema 4K TV",
+      "category": "phim",
+      "version": "1.1.0",
+      "icon": "",
+      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Cinema%204K%20TV_1.1.0.apk",
+      "featured": false
+    },
+    {
+      "id": "cho-phim-tv",
+      "name": "Cho Phim TV",
+      "category": "phim",
+      "version": "1.1.0",
+      "icon": "",
+      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Cho%20Phim%20TV_1.1.0.apk",
+      "featured": false
+    },
+    {
+      "id": "ban-phim-android-tv",
+      "name": "Bàn phím Android TV",
+      "category": "cong-cu",
+      "version": "1.4.3.190711",
+      "icon": "",
+      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/B%C3%A0n%20ph%C3%ADm%20Android%20TV_1.4.3.190711.apk",
+      "featured": false
     }
   ]
 }
