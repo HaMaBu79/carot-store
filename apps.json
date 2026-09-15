@@ -39,15 +39,6 @@
       "icon": "",
       "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Cho%20Phim%20TV_1.1.0.apk",
       "featured": false
-    },
-    {
-      "id": "ban-phim-android-tv",
-      "name": "Bàn phím Android TV",
-      "category": "cong-cu",
-      "version": "1.4.3.190711",
-      "icon": "",
-      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/B%C3%A0n%20ph%C3%ADm%20Android%20TV_1.4.3.190711.apk",
-      "featured": false
     }
   ]
 }
