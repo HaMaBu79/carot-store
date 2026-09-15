@@ -23,8 +23,9 @@
     },
     {
       "id": "downloader",
-      "name": "Downloader",
+      "name": "Download",
       "category": "Downloader",
+      "description": "app hỗ trợ dơnlad apk qua mã code",
       "version": "1.1.0",
       "icon": "",
       "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Downloader_2.0.4-ForGoogleAndroidDevices.apks",
