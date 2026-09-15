@@ -22,12 +22,12 @@
       "featured": false
     },
     {
-      "id": "cinema-4k-tv",
-      "name": "Cinema 4K TV",
-      "category": "phim",
+      "id": "downloader",
+      "name": "Downloader",
+      "category": "Downloader",
       "version": "1.1.0",
       "icon": "",
-      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Cinema%204K%20TV_1.1.0.apk",
+      "apk": "https://raw.githubusercontent.com/HaMaBu79/carot-store/main/apk/Downloader_2.0.4-ForGoogleAndroidDevices.apks",
       "featured": false
     },
     {
